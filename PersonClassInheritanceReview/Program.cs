@@ -16,7 +16,7 @@ namespace PersonClassInheritanceReview
 
             
 
-
+            
             Child c1 = new Child();
             c1.Age = 2;
             c1.Name = "Molly";
@@ -25,7 +25,7 @@ namespace PersonClassInheritanceReview
             c1.Cry();
 
 
-            Console.ReadKey();
+            Console.ReadLine();
 
 
         }
